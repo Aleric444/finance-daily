@@ -5,8 +5,8 @@ import re
 from datetime import datetime
 
 def fetch_and_save():
-    # 新浪财经 RSS 源
-    rss_url = "https://feedx.net/rss/sinafinance.xml"
+    # new RSS 源
+    rss_url = "https://www.cnbc.com/id/10000664/device/rss/rss.html"
     
     try:
         # 请求 RSS
