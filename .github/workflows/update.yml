@@ -2,19 +2,21 @@ name: 每日财经新闻自动更新
 
 on:
   schedule:
-    # 国际标准时间，相当于北京时间每小时的 0 分执行一次（可根据需要修改）
     - cron: '0 * * * *'
-  workflow_dispatch: # 允许手动点击按钮触发更新
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # --- 在这里添加这一行 ---
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+    # -----------------------
     steps:
-    - name: 检查分支代码
-      uses: actions/checkout@v4
-      with:
-        persist-credentials: true # 关键：允许凭据持久化
-
+      - name: 检查分支代码
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
     - name: 设置 Python 环境
       uses: actions/setup-python@v5
       with:
