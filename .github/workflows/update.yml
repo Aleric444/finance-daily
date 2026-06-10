@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: 检查分支代码
-      # 将 v3 更新为 v4
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true # 关键：允许凭据持久化
 
     - name: 设置 Python 环境
-      # 将 v4 更新为 v5
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
@@ -23,13 +23,16 @@ jobs:
     - name: 执行抓取脚本
       run: python fetch_news.py
 
-    - name: 将更新的 news.json 提交回仓库
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: 提交并推送到仓库
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add news.json
-        # 使用 || exit 0 避免因没有改动而产生的错误退出
-        git commit -m "自动更新财经新闻: $(date)" || exit 0
-        git push origin main
+        
+        # 检查是否有文件改动
+        if [ -n "$(git status --porcelain)" ]; then
+          git add news.json
+          git commit -m "自动更新财经新闻: $(date)"
+          git push origin main
+        else
+          echo "没有新内容，跳过提交。"
+        fi
