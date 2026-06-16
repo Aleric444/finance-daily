@@ -1,5 +1,11 @@
 [
     {
+        "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+        "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+        "description": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
+        "time": "刚刚"
+    },
+    {
         "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
         "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
         "description": "Traders think it's more likely than not that access is restored by July 1.",
@@ -111,12 +117,6 @@
         "title": "Regulators' proposed prediction markets rules ban trading on terrorism, assassinations",
         "link": "https://www.cnbc.com/2026/06/10/regulators-proposed-prediction-markets-rules-ban-trading-on-terrorism-assassinations.html",
         "description": "The proposed rules from the commission will now face a public comment period.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
-        "link": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
-        "description": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
         "time": "刚刚"
     }
 ]
