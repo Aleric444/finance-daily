@@ -1,5 +1,11 @@
 [
     {
+        "title": "People in China are watching the World Cup differently this time",
+        "link": "https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html",
+        "description": "A 12-hour-plus time difference and various streaming options are influencing how people in China watch the World Cup.",
+        "time": "刚刚"
+    },
+    {
         "title": "CFTC chair Selig defends decision to approve ‘perps’ in U.S.",
         "link": "https://www.cnbc.com/2026/06/15/cftc-chair-selig-defends-decision-to-approve-perps-in-us.html",
         "description": "Michael Selig said that incumbents will always fear the future, but it's important to develop the new asset class domestically rather than only offshore.",
@@ -111,12 +117,6 @@
         "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
         "link": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
         "description": "JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Electric vehicle giant BYD predicts 80% of China car sales will soon be electric",
-        "link": "https://www.cnbc.com/2026/06/09/electric-vehicle-giant-byd-predicts-80percent-of-china-car-sales-will-soon-be-electric.html",
-        "description": "BYD expects China's competitive electric vehicle market to continue growing, even as manufacturers and analysts anticipate domestic demand to taper further.",
         "time": "刚刚"
     }
 ]
