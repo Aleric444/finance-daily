@@ -1,5 +1,11 @@
 [
     {
+        "title": "Meta is building a prediction markets app, the New York Times says. These stocks are falling in response",
+        "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+        "description": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction market platform, internally known as \"Arena.\"",
+        "time": "刚刚"
+    },
+    {
         "title": "U.S. fights with Brazil for China's giant soybean market",
         "link": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
         "description": "The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer",
@@ -111,12 +117,6 @@
         "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
         "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
         "description": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
-        "link": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
-        "description": "Traders think it's more likely than not that access is restored by July 1.",
         "time": "刚刚"
     }
 ]
