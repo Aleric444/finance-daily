@@ -1,8 +1,20 @@
 [
     {
-        "title": "Meta is building a prediction markets app, the New York Times says. These stocks are falling in response",
+        "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
+        "link": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
+        "description": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.",
+        "time": "刚刚"
+    },
+    {
+        "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+        "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+        "description": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
+        "time": "刚刚"
+    },
+    {
+        "title": "Meta is building a prediction markets app. These stocks fell in response",
         "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
-        "description": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction market platform, internally known as \"Arena.\"",
+        "description": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
         "time": "刚刚"
     },
     {
@@ -105,18 +117,6 @@
         "title": "China pushes for AI safety as G7 summit wraps up without Beijing",
         "link": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
         "description": "China included artificial intelligence in its global governance whitepaper published Wednesday, and said Beijing was speeding up cooperation efforts.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
-        "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
-        "description": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
-        "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
-        "description": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
         "time": "刚刚"
     }
 ]
