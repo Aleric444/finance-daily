@@ -1,5 +1,11 @@
 [
     {
+        "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+        "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+        "description": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+        "time": "刚刚"
+    },
+    {
         "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
         "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
         "description": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
@@ -111,12 +117,6 @@
         "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
         "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
         "description": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-        "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-        "description": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
         "time": "刚刚"
     }
 ]
