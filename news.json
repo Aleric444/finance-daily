@@ -1,5 +1,11 @@
 [
     {
+        "title": "China warns about AI risks with Anthropic's Claude Code",
+        "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+        "description": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+        "time": "刚刚"
+    },
+    {
         "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
         "link": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html",
         "description": "Speculators think the massive rally in the Nasdaq-100 since the lows following the U.S.-Iran war will be more subdued in the second half of 2026.",
@@ -111,12 +117,6 @@
         "title": "Why investors may want to prioritize bond markets outside the U.S.",
         "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
         "description": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
-        "time": "刚刚"
-    },
-    {
-        "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-        "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-        "description": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
         "time": "刚刚"
     }
 ]
