@@ -1,5 +1,11 @@
 [
     {
+        "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+        "link": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+        "description": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+        "time": "刚刚"
+    },
+    {
         "title": "China warns about AI risks with Anthropic's Claude Code",
         "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
         "description": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
@@ -111,12 +117,6 @@
         "title": "China's economy picks up in June on rebounding U.S. exports, analysts say",
         "link": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
         "description": "China's economy is showing signs of picking up after a sluggish few months — thanks in part to a rebound in shipments to the U.S.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Why investors may want to prioritize bond markets outside the U.S.",
-        "link": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-        "description": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
         "time": "刚刚"
     }
 ]
