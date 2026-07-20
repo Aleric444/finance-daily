@@ -1,5 +1,11 @@
 [
     {
+        "title": "China's car market heads for worst year since 2021 as sales plunge 20%",
+        "link": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
+        "description": "Consumer demand for cars in China tumbles following record-high sales of 23.7 million units in 2025.",
+        "time": "刚刚"
+    },
+    {
         "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
         "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
         "description": "The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.",
@@ -111,12 +117,6 @@
         "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
         "link": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
         "description": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
-        "time": "刚刚"
-    },
-    {
-        "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-        "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-        "description": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
         "time": "刚刚"
     }
 ]
