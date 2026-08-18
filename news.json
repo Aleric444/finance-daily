@@ -1,5 +1,11 @@
 [
     {
+        "title": "What Chinese liquor maker Moutai's slump says about the country's economy ",
+        "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+        "description": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+        "time": "刚刚"
+    },
+    {
         "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
         "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
         "description": "A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a political problem.",
@@ -111,12 +117,6 @@
         "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
         "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
         "description": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
-        "link": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
-        "description": "JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.",
         "time": "刚刚"
     }
 ]
