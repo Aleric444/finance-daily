@@ -1,5 +1,11 @@
 [
     {
+        "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+        "link": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+        "description": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.",
+        "time": "刚刚"
+    },
+    {
         "title": "China is defying the global bond yield surge, boosting its diversification appeal",
         "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
         "description": "Chinese government bond yields have remained low amid a global surge.",
@@ -111,12 +117,6 @@
         "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
         "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
         "description": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
-        "time": "刚刚"
-    },
-    {
-        "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-        "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-        "description": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
         "time": "刚刚"
     }
 ]
