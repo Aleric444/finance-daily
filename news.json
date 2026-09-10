@@ -1,5 +1,17 @@
 [
     {
+        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+        "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+        "description": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
+        "time": "刚刚"
+    },
+    {
+        "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+        "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+        "description": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+        "time": "刚刚"
+    },
+    {
         "title": "Ant International partners with Visa, Mastercard on developing AI payments",
         "link": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
         "description": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
@@ -105,18 +117,6 @@
         "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
         "link": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
         "description": "The path toward the move still looks cluttered.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-        "link": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-        "description": "The insurance broker said the merger will create the premiere U.S. middle-market platform.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
-        "link": "https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html",
-        "description": "The prediction market platform and the financial infrastructure and brokerage startup are working to get Kalshi's event contracts to global investors.",
         "time": "刚刚"
     }
 ]
