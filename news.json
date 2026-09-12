@@ -1,5 +1,11 @@
 [
     {
+        "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+        "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+        "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+        "time": "刚刚"
+    },
+    {
         "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
         "link": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
         "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
@@ -111,12 +117,6 @@
         "title": "Prediction market traders think job creation rebounded in August",
         "link": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
         "description": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-        "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-        "description": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
         "time": "刚刚"
     }
 ]
