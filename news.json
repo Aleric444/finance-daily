@@ -1,5 +1,11 @@
 [
     {
+        "title": "Prediction market traders think gas prices will hit new highs for the year",
+        "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+        "description": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
+        "time": "刚刚"
+    },
+    {
         "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
         "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
         "description": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
@@ -111,12 +117,6 @@
         "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
         "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
         "description": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
-        "time": "刚刚"
-    },
-    {
-        "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-        "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-        "description": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
         "time": "刚刚"
     }
 ]
