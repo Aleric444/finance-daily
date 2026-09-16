@@ -1,5 +1,17 @@
 [
     {
+        "title": "Here is what changed in the new Fed statement under Warsh",
+        "link": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+        "description": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
+        "time": "刚刚"
+    },
+    {
+        "title": "Fed approves interest rate hike, signals one more to come this year",
+        "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+        "description": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
+        "time": "刚刚"
+    },
+    {
         "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
         "link": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
         "description": "Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.",
@@ -105,18 +117,6 @@
         "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
         "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
         "description": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-        "link": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-        "description": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
-        "link": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
-        "description": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
         "time": "刚刚"
     }
 ]
