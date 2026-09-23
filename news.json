@@ -1,5 +1,11 @@
 [
     {
+        "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+        "link": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+        "description": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
+        "time": "刚刚"
+    },
+    {
         "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
         "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
         "description": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
@@ -111,12 +117,6 @@
         "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
         "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
         "description": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Prediction markets are becoming more professionalized, but also harder to beat",
-        "link": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
-        "description": "The institutionalization of prediction markets threatens to erode the edge of skilled traders who earn off mispricing and market inefficiencies, experts say.",
         "time": "刚刚"
     }
 ]
