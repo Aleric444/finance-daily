@@ -1,5 +1,11 @@
 [
     {
+        "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+        "link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+        "description": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
+        "time": "刚刚"
+    },
+    {
         "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
         "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
         "description": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
@@ -111,12 +117,6 @@
         "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
         "link": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
         "description": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-        "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-        "description": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
         "time": "刚刚"
     }
 ]
