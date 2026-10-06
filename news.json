@@ -1,5 +1,17 @@
 [
     {
+        "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+        "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+        "description": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
+        "time": "刚刚"
+    },
+    {
+        "title": "How event contract bundles are boosting volume on prediction markets",
+        "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+        "description": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
+        "time": "刚刚"
+    },
+    {
         "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
         "link": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
         "description": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
@@ -105,18 +117,6 @@
         "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
         "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
         "description": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-        "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-        "description": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
-        "time": "刚刚"
-    },
-    {
-        "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-        "link": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-        "description": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
         "time": "刚刚"
     }
 ]
