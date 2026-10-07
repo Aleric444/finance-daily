@@ -1,5 +1,11 @@
 [
     {
+        "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+        "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+        "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+        "time": "刚刚"
+    },
+    {
         "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
         "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
         "description": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
@@ -111,12 +117,6 @@
         "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
         "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
         "description": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-        "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-        "description": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
         "time": "刚刚"
     }
 ]
