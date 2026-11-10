@@ -1,5 +1,17 @@
 [
     {
+        "title": "U.S. gas prices fall below $4 for the first time since July",
+        "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+        "description": "Americans may finally find some relief at the pump.",
+        "time": "刚刚"
+    },
+    {
+        "title": "Polymarket says annualized revenue has topped $1.8 billion",
+        "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+        "description": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
+        "time": "刚刚"
+    },
+    {
         "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
         "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
         "description": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
@@ -105,18 +117,6 @@
         "title": "Fed officials are already saying they’ll need to get back to hiking rates",
         "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
         "description": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-        "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-        "description": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-        "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-        "description": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
         "time": "刚刚"
     }
 ]
