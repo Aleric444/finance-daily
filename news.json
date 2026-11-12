@@ -1,5 +1,11 @@
 [
     {
+        "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+        "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+        "description": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+        "time": "刚刚"
+    },
+    {
         "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
         "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
         "description": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
@@ -111,12 +117,6 @@
         "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
         "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
         "description": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-        "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-        "description": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
         "time": "刚刚"
     }
 ]
