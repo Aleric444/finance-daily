@@ -1,5 +1,17 @@
 [
     {
+        "title": "Three things to watch as Trump, Xi and Putin meet in China",
+        "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+        "description": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+        "time": "刚刚"
+    },
+    {
+        "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+        "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+        "description": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+        "time": "刚刚"
+    },
+    {
         "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
         "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
         "description": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
@@ -105,18 +117,6 @@
         "title": "U.S. gas prices fall below $4 for the first time since July",
         "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
         "description": "Americans may finally find some relief at the pump.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Polymarket says annualized revenue has topped $1.8 billion",
-        "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-        "description": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
-        "time": "刚刚"
-    },
-    {
-        "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-        "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-        "description": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
         "time": "刚刚"
     }
 ]
